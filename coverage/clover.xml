@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1713997567726" clover="3.2.0">
+  <project timestamp="1713997567726" name="All files">
+    <metrics statements="123" coveredstatements="90" conditionals="25" coveredconditionals="6" methods="49" coveredmethods="30" elements="197" coveredelements="126" complexity="0" loc="123" ncloc="123" packages="13" files="16" classes="16"/>
+    <package name="src">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="routes.tsx" path="/Users/dokeating/react-template/src/routes.tsx">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.CharacterCard">
+      <metrics statements="19" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="6"/>
+      <file name="CharacterCard.test.component.vitest.tsx" path="/Users/dokeating/react-template/src/components/CharacterCard/CharacterCard.test.component.vitest.tsx">
+        <metrics statements="13" coveredstatements="13" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="59" count="1" type="stmt"/>
+        <line num="62" count="1" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+      </file>
+      <file name="CharacterCard.tsx" path="/Users/dokeating/react-template/src/components/CharacterCard/CharacterCard.tsx">
+        <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.Layout">
+      <metrics statements="6" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+      <file name="Layout.tsx" path="/Users/dokeating/react-template/src/components/Layout/Layout.tsx">
+        <metrics statements="6" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components.TriviaQuestion">
+      <metrics statements="11" coveredstatements="1" conditionals="9" coveredconditionals="0" methods="5" coveredmethods="0"/>
+      <file name="TriviaQuestion.tsx" path="/Users/dokeating/react-template/src/components/TriviaQuestion/TriviaQuestion.tsx">
+        <metrics statements="11" coveredstatements="1" conditionals="9" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.hooks">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="store.tsx" path="/Users/dokeating/react-template/src/hooks/store.tsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.hooks.useData">
+      <metrics statements="6" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="useData.tsx" path="/Users/dokeating/react-template/src/hooks/useData/useData.tsx">
+        <metrics statements="6" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.CharacterList">
+      <metrics statements="4" coveredstatements="1" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="CharacterList.tsx" path="/Users/dokeating/react-template/src/pages/CharacterList/CharacterList.tsx">
+        <metrics statements="4" coveredstatements="1" conditionals="4" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.CharacterPage">
+      <metrics statements="5" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="CharacterPage.tsx" path="/Users/dokeating/react-template/src/pages/CharacterPage/CharacterPage.tsx">
+        <metrics statements="5" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.pages.TriviaPage">
+      <metrics statements="9" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="0"/>
+      <file name="TriviaPage.tsx" path="/Users/dokeating/react-template/src/pages/TriviaPage/TriviaPage.tsx">
+        <metrics statements="9" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.store">
+      <metrics statements="4" coveredstatements="4" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="store.ts" path="/Users/dokeating/react-template/src/store/store.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="9" count="1" type="cond" truecount="0" falsecount="1"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.store.reducers.triviaReducer">
+      <metrics statements="35" coveredstatements="35" conditionals="0" coveredconditionals="0" methods="12" coveredmethods="12"/>
+      <file name="triviaReducer.test.unit.vitest.ts" path="/Users/dokeating/react-template/src/store/reducers/triviaReducer/triviaReducer.test.unit.vitest.ts">
+        <metrics statements="25" coveredstatements="25" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="49" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+      </file>
+      <file name="triviaReducer.ts" path="/Users/dokeating/react-template/src/store/reducers/triviaReducer/triviaReducer.ts">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+        <line num="50" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.test.utils">
+      <metrics statements="8" coveredstatements="8" conditionals="5" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <file name="setupComponentTest.tsx" path="/Users/dokeating/react-template/src/test/utils/setupComponentTest.tsx">
+        <metrics statements="8" coveredstatements="8" conditionals="5" coveredconditionals="4" methods="4" coveredmethods="4"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="2" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="24" count="8" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="42" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.utils.averageWordsPerQuote">
+      <metrics statements="13" coveredstatements="13" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5"/>
+      <file name="averageWordPerQuote.ts" path="/Users/dokeating/react-template/src/utils/averageWordsPerQuote/averageWordPerQuote.ts">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="averageWordsPerQuote.test.unit.vitest.ts" path="/Users/dokeating/react-template/src/utils/averageWordsPerQuote/averageWordsPerQuote.test.unit.vitest.ts">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
